@@ -23,6 +23,9 @@ public class PractiseOne {
 		driver.manage().window().maximize();
 		driver.findElement(By.tagName("html")).sendKeys(Keys.chord(Keys.CONTROL, "0"));
 		driver.get("http://demo.guru99.com/test/image_upload/index.php");
+		System.out.println("This is a test message");
+		System.out.println("This is another test message");
+		System.out.println("yet another message");
 
 	}
 
