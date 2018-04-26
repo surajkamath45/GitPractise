@@ -26,6 +26,7 @@ public class PractiseOne {
 		System.out.println("This is a test message");
 		System.out.println("This is another test message");
 		System.out.println("yet another message");
+		System.out.println("Another message");
 
 	}
 
